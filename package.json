@@ -27,8 +27,8 @@
   "binary": {
     "module_name": "s2",
     "module_path": "./lib/binding/{configuration}/{node_abi}-{platform}-{arch}/",
-    "remote_path": "./{module_name}/v{version}/{configuration}/",
-    "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.tar.gz",
+    "remote_path": "./{module_name}/v83/{configuration}/",
+    "package_name": "{module_name}-v83-{node_abi}-{platform}-{arch}.tar.gz",
     "host": "https://node-s2-binaries.s3.amazonaws.com"
   },
   "dependencies": {
